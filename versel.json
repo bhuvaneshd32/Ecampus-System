@@ -26,5 +26,5 @@
       "dest": "student_management_app/wsgi.py"
     }
   ],
-  "outputDirectory": "ui/staticfiles"
+  "outputDirectory": "static"
 }
